@@ -341,10 +341,9 @@ a:after {
 
 #footerwrap {
 	background: #2b2b2b;
-	margin-top: 0px;
-	padding-top: 40px;
+	margin-top: 30px;
+	padding-top: 30px;
 	padding-bottom: 20px;
-	border-bottom: 1px solid #ddd;
 	text-align: center;
 }
 
@@ -415,6 +414,18 @@ a:after {
 .divider1 {
 	background-image: url('../img/bg/divider1.jpg')
 }
+/*@media
+  only screen and (-webkit-min-device-pixel-ratio: 2),
+  only screen and (   min--moz-device-pixel-ratio: 2),
+  only screen and (     -o-min-device-pixel-ratio: 2/1),
+  only screen and (        min-device-pixel-ratio: 2),
+  only screen and (                min-resolution: 192dpi),
+  only screen and (                min-resolution: 2dppx) {
+    .divider1 {
+      background-image: url('../img/bg/divider1@2x.jpg');
+      background-size: WRAPPER-WIDTH WRAPPER_HEIGHT;
+  }
+}*/
 
 .divider2 {
 	background-image: url('../img/bg/divider2.jpg')
@@ -635,3 +646,12 @@ a:after {
 		line-height: 38px;
 	}
 }
+
+
+/* ==========================================================================
+   CONTACT FORM
+   ========================================================================== */
+
+   .contactForm h3 {
+     text-align: center;
+   }
