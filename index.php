@@ -46,7 +46,7 @@
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
             <span class="icon icon-shield" style="font-size:30px; color:#3498db;"></span>
           </button>
-          <a class="navbar-brand hidden-xs hidden-sm" href="index.html"><span class="icon icon-shield" style="font-size:18px; color:#3498db;"></span></a>
+          <a class="navbar-brand hidden-xs hidden-sm" href=""><span class="icon icon-shield" style="font-size:18px; color:#3498db;"></span></a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
@@ -85,7 +85,7 @@
 				<div class="col-lg-4 callout">
 					<span class="icon icon-eye"></span>
 					<h2>Retina Ready</h2>
-					<p>Puedes usar esta web con tu iPhone, iPad o MacBook Pro. Esta web es retina ready y eso es la polla. </p>
+					<p>Puedes usar esta web con tu iPhone, iPad o MacBook Pro. Esta web es retina ready y eso es alucinante. </p>
 				</div><!-- col-lg-4 -->
 
 				<div class="col-lg-4 callout">
@@ -103,22 +103,22 @@
 				<h1 class="centered">UN POCO SOBRE M&Iacute</h1>
 				<hr>
 
-				<div class="col-lg-6">
-					<p>We believe ideas come from everyone, everywhere. In fact, at BlackTie, everyone within our agency walls is a designer in their own right. And there are a few principles we believe—and we believe everyone should believe—about our design craft. These truths drive us, motivate us, and ultimately help us redefine the power of design. We’re big believers in doing right by our neighbors. After all, we grew up in the Twin Cities and we believe this place has much to offer. So we do what we can to support the community we love.</p>
+				<div class="col-lg-6 col-lg-offset-3">
+					<p>Creo que las ideas vienen de todo el mundo, de todas partes. De hecho, me considero un diseñador. Y hay algunos principios que creo que todo el mundo debe creer sobre el diseño. Estas verdades nos llevan, nos motivan, y en última instancia nos ayudan a redefinir el poder del diseño. Soy un gran creyente de hacer lo correcto por los dem&aacutes. Después de todo, he crecido aqui y creo que este lugar tiene mucho que ofrecer. Así que hago lo que puedo para apoyar a la comunidad que me gusta.</p>
 				</div><!-- col-lg-6 -->
 
-				<div class="col-lg-6">
-					<p>Over the past four years, we’ve provided more than $1 million in combined cash and pro bono support to Way to Grow, an early childhood education and nonprofit organization. Other community giving involvement throughout our agency history includes pro bono work for more than 13 organizations, direct giving, a scholarship program through the Minneapolis College of Art & Design, board memberships, and ongoing participation in the Keystone Club, which gives five percent of our company’s earnings back to the community each year.</p>
-				</div><!-- col-lg-6 -->
+				<!--<div class="col-lg-6">
+					<p></p>
+				</div>--><!-- col-lg-6 -->
 			</div><!-- row -->
 		</div><!-- container -->
 
 		<!-- ==== SECTION DIVIDER1 -->
 		<section class="section-divider textdivider divider1">
 			<div class="container">
-				<h1>DESIGN EXPAND BOUNDARIES</h1>
+				<h1>EL DISEÑO EXPANDE LAS FRONTERAS</h1>
 				<hr>
-				<p>To achieve real change, we have to expand boundaries. Because the Wild West of what-could-be is unexplored but rife with opportunity.</p>
+				<p>Para lograr un cambio real, tenemos que ampliar las fronteras. El terreno de lo desconocido est&aacute lleno de oportunidades.</p>
 			</div><!-- container -->
 		</section><!-- section -->
 
@@ -128,14 +128,13 @@
 			<br>
 			<br>
 			<div class="row">
-				<h2 class="centered">ONE BRAND, ONE VOICE.</h2>
+				<h2 class="centered">UNA MARCA, UNA VOZ.</h2>
 				<hr>
 				<br>
 				<div class="col-lg-offset-2 col-lg-8">
-					<p>Employees and consumers. Two halves of a brand’s entirety, the whole of a brand’s audience. Sometimes these two halves have very different viewpoints, creating a weak spot in the brand story. Weakness tarnishes credibility. Brands that aren’t credible aren’t viable.
-					</p>
-					<p>We squash weakness by designing the whole brand story. It’s crafted around the truism held by employees and consumers to create an experience that connects from the inside out.</p>
-					<p>By being true to the brand we represent, we elevate the audiences’ relationship to it. Like becomes love becomes a passion. Passion becomes advocacy. And we see the brand blossom from within, creating a whole story the audience embraces. That’s when the brand can truly flex its muscles.</p>
+					<p>Empleados y consumidores. Dos mitades de la totalidad de una marca, la totalidad de la audiencia de una marca. A veces, estas dos mitades tienen puntos de vista muy diferentes, creando un punto débil en la historia de la marca. Debilidad empaña la credibilidad. Las marcas que no son creíbles no son viables.</p>
+					<p>Aplastar la debilidad diseñando toda la historia de la marca. Hecho a mano para crear una experiencia que se conecta desde dentro hacia fuera.</p>
+					<p>Al ser fiel a la marca que represento, elevo la audiencia de la misma. Al igual que el amor se convierte en pasión, la pasión se convierte en vocacion, creando toda la historia que el público abraza. En ese momento es cuando la marca puede flexionar sus músculos.</p>
 				</div><!-- col-lg -->
 			</div><!-- row -->
 
@@ -164,7 +163,7 @@
 		<br>
 			<div class="row">
 				<br>
-				<h1 class="centered">WE CREATE COOL STUFF</h1>
+				<h1 class="centered">I CREATE COOL STUFF</h1>
 				<hr>
 				<br>
 				<br>
@@ -176,37 +175,31 @@
 				<div class="col-md-4 ">
 			    	<div class="grid mask">
 						<figure>
-							<img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt="Lucas Salinas Github">
+							<img class="img-responsive" src="assets/img/portfolio/folio01.png" alt="Lucas Salinas Github">
 							<figcaption>
-								<h5>DASHBOARD</h5>
-								<a data-toggle="modal" href="#myModal" class="btn btn-primary btn-lg">Take a Look</a>
+								<h5>GITHUB</h5>
+								<a data-toggle="modal" href="#githubModal" class="btn btn-primary btn-lg">Take a Look</a>
 							</figcaption><!-- /figcaption -->
 						</figure><!-- /figure -->
 			    	</div><!-- /grid-mask -->
 				</div><!-- /col -->
 
-
-						 <!-- MODAL SHOW THE PORTFOLIO IMAGE. In this demo, all links point to this modal. You should create
-						      a modal for each of your projects. -->
-
-						  <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-						    <div class="modal-dialog">
-						      <div class="modal-content">
-						        <div class="modal-header">
-						          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-						          <h4 class="modal-title">Project Title</h4>
-						        </div>
-						        <div class="modal-body">
-						          <p><img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt="Programador Web Godella Trabajo"></p>
-						          <p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>
-						          <p><b><a href="#">Visit Site</a></b></p>
-						        </div>
-						        <div class="modal-footer">
-						          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-						        </div>
-						      </div><!-- /.modal-content -->
-						    </div><!-- /.modal-dialog -->
-						  </div><!-- /.modal -->
+				<div class="modal fade" id="githubModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+					<div class="modal-dialog">
+						<div class="modal-content">
+						  <div class="modal-header">
+						    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						    <h4 class="modal-title">GitHub</h4>
+						  </div>
+						  <div class="modal-body">
+						    <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" alt="Programador Web Godella Trabajo"></p>
+                <p>Esta es mi p&aacutegina personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
+						    <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
+						    <p><b><a href="https://github.com/Lucastrike" target="_blank">Visita el sitio</a></b></p>
+						  </div>
+						</div><!-- /.modal-content -->
+					</div><!-- /.modal-dialog -->
+				</div><!-- /.modal -->
 
 
 				<!-- PORTFOLIO IMAGE 2 -->
@@ -222,6 +215,23 @@
 			    	</div><!-- /grid-mask -->
 				</div><!-- /col -->
 
+        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+					<div class="modal-dialog">
+						<div class="modal-content">
+						  <div class="modal-header">
+						    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						    <h4 class="modal-title">GitHub</h4>
+						  </div>
+						  <div class="modal-body">
+						    <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" alt="Programador Web Godella Trabajo"></p>
+                <p>Esta es mi p&aacutegina personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
+						    <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
+						    <p><b><a href="https://github.com/Lucastrike" target="_blank">Visita el sitio</a></b></p>
+						  </div>
+						</div><!-- /.modal-content -->
+					</div><!-- /.modal-dialog -->
+				</div><!-- /.modal -->
+
 				<!-- PORTFOLIO IMAGE 3 -->
 				<div class="col-md-4">
 			    	<div class="grid mask">
@@ -235,6 +245,23 @@
 			    	</div><!-- /grid-mask -->
 				</div><!-- /col -->
 			</div><!-- /row -->
+
+      <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+              <h4 class="modal-title">GitHub</h4>
+            </div>
+            <div class="modal-body">
+              <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" alt="Programador Web Godella Trabajo"></p>
+              <p>Esta es mi p&aacutegina personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
+              <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
+              <p><b><a href="https://github.com/Lucastrike" target="_blank">Visita el sitio</a></b></p>
+            </div>
+          </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+      </div><!-- /.modal -->
 
 				<!-- PORTFOLIO IMAGE 4 -->
 			<div class="row">
@@ -250,6 +277,23 @@
 			    	</div><!-- /grid-mask -->
 				</div><!-- /col -->
 
+        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+					<div class="modal-dialog">
+						<div class="modal-content">
+						  <div class="modal-header">
+						    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						    <h4 class="modal-title">GitHub</h4>
+						  </div>
+						  <div class="modal-body">
+						    <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" alt="Programador Web Godella Trabajo"></p>
+                <p>Esta es mi p&aacutegina personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
+						    <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
+						    <p><b><a href="https://github.com/Lucastrike" target="_blank">Visita el sitio</a></b></p>
+						  </div>
+						</div><!-- /.modal-content -->
+					</div><!-- /.modal-dialog -->
+				</div><!-- /.modal -->
+
 				<!-- PORTFOLIO IMAGE 5 -->
 				<div class="col-md-4">
 			    	<div class="grid mask">
@@ -263,6 +307,23 @@
 			    	</div><!-- /grid-mask -->
 				</div><!-- /col -->
 
+        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+					<div class="modal-dialog">
+						<div class="modal-content">
+						  <div class="modal-header">
+						    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						    <h4 class="modal-title">GitHub</h4>
+						  </div>
+						  <div class="modal-body">
+						    <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" alt="Programador Web Godella Trabajo"></p>
+                <p>Esta es mi p&aacutegina personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
+						    <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
+						    <p><b><a href="https://github.com/Lucastrike" target="_blank">Visita el sitio</a></b></p>
+						  </div>
+						</div><!-- /.modal-content -->
+					</div><!-- /.modal-dialog -->
+				</div><!-- /.modal -->
+
 				<!-- PORTFOLIO IMAGE 6 -->
 				<div class="col-md-4">
 			    	<div class="grid mask">
@@ -275,6 +336,24 @@
 						</figure><!-- /figure -->
 			    	</div><!-- /grid-mask -->
 				</div><!-- /col -->
+
+        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+					<div class="modal-dialog">
+						<div class="modal-content">
+						  <div class="modal-header">
+						    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						    <h4 class="modal-title">GitHub</h4>
+						  </div>
+						  <div class="modal-body">
+						    <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" alt="Programador Web Godella Trabajo"></p>
+                <p>Esta es mi p&aacutegina personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
+						    <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
+						    <p><b><a href="https://github.com/Lucastrike" target="_blank">Visita el sitio</a></b></p>
+						  </div>
+						</div><!-- /.modal-content -->
+					</div><!-- /.modal-dialog -->
+				</div><!-- /.modal -->
+
 			</div><!-- /row -->
 			<br>
 			<br>
@@ -302,23 +381,23 @@
 			</div><!-- /row -->
 
 			<div class="row">
-				<div class="col-lg-6 blog-bg">
+				<div class="col-lg-8 blog-bg col-lg-offset-2">
 					<div class="col-lg-4 centered">
 					<br>
-						<p><img class="img img-circle" src="assets/img/team/team04.jpg" width="60px" height="60px"></p>
-						<h4>Jaye Smith</h4>
-						<h5>Published Aug 30.</h5>
+						<p><img class="img img-circle" src="assets/img/team/lucas_perfil2.jpg" width="60px" height="60px"></p>
+						<h4>Lucas Salinas</h4>
+						<h5>Publicado 8 Oct.</h5>
 					</div>
 					<div class="col-lg-8 blog-content">
-						<h2>We Define Success</h2>
-						<p>Armed with insight, we embark on designing the right brand experience that engages the audience. It encompasses both the strategic direction and creative execution that solves a business problem and brings the brand to life.</p>
-						<p>In the create phase, the big idea is unleashed to the world through different media touchpoints. This is when we watch the audience fall in love all over again with our client’s brand.</p>
-						<p><a href="#" class="icon icon-link"> Read More</a></p>
+						<h2>Defino el éxito</h2>
+						<p>Armado con perspicacia, me embarco en el diseño de la correcta marca que engancha a la audiencia. Abarca tanto la dirección estratégica como la ejecución creativa que resuelve un problema de negocio y trae vida a la marca.</p>
+						<p>En la fase de creación, la gran idea se desata al mundo a través de diferentes puntos de contacto con los medios de comunicación. Esto es cuando vemos la audiencia caer enamorada de nuevo con la marca de mi cliente.</p>
+						<!--<p><a href="#" class="icon icon-link"> Read More</a></p>-->
 						<br>
 					</div>
 				</div><!-- /col -->
 
-				<div class="col-lg-6 blog-bg">
+				<!--<div class="col-lg-6 blog-bg">
 					<div class="col-lg-4 centered">
 					<br>
 						<p><img class="img img-circle" src="assets/img/team/team03.jpg" width="60px" height="60px"></p>
@@ -333,7 +412,7 @@
 						<br>
 					</div>
 				</div><!-- /col -->
-			</div><!-- /row -->
+			</div>--><!-- /row -->
 			<br>
 			<br>
 		</div><!-- /container -->
@@ -358,12 +437,12 @@
 
 				<div class="col-lg-12 contactForm">
             <h3>Contacta conmigo</h3>
-            <form role="form" action="" method="post" >
+            <form role="form" action="<?php echo $_SERVER["PHP_SELF"]; ?>" method="post" >
       				<div class="col-md-6 col-lg-offset-3">
       					<div class="form-group">
       						<label for="InputName">Tu Nombre</label>
       						<div class="input-group">
-      							<input type="text" class="form-control" name="InputName" id="InputName" placeholder="Nombre" required>
+      							<input type="text" class="form-control" name="InputName" id="name" placeholder="Nombre" required>
       							<span class="input-group-addon"><i class="glyphicon glyphicon-ok form-control-feedback"></i></span>
       						</div>
       					</div>
@@ -371,7 +450,7 @@
       					<div class="form-group">
       						<label for="InputEmail">Tu Email</label>
       						<div class="input-group">
-      							<input type="email" class="form-control" id="InputEmail" name="InputEmail" placeholder="Email" required  >
+      							<input type="email" class="form-control" id="InputEmail" name="email" placeholder="Email" required  >
       							<span class="input-group-addon"><i class="glyphicon glyphicon-ok form-control-feedback"></i></span>
       						</div>
       					</div>
@@ -379,14 +458,24 @@
       					<div class="form-group">
       						<label for="InputMessage">Mensaje</label>
       						<div class="input-group">
-      							<textarea name="InputMessage" id="InputMessage" class="form-control" rows="5" required></textarea>
+      							<textarea name="InputMessage" id="message" class="form-control" rows="5" placeholder="Hola! ..." required></textarea>
       							<span class="input-group-addon"><i class="glyphicon glyphicon-ok form-control-feedback"></i></span>
       						</div>
       					</div>
 
-      					<input type="submit" name="submit" id="submit" value="Submit" class="btn wow tada btn-embossed btn-primary pull-right">
+      					<input type="submit" name="submit" id="submit" value="Enviar" class="btn wow tada btn-embossed btn-primary pull-right">
       				</div>
       			</form>
+
+            <?php
+
+              $name = $_POST["name"];
+              $email = $_POST["email"];
+              $message = $_POST["message"];
+              mail ("lucastrike1@gmail.com", $name, $message, "From: $email");
+
+             ?>
+
 				</div><!-- col -->
 
 			</div><!-- row -->
@@ -412,7 +501,6 @@
 
     <!-- AddThis
     ================================================= -->
-
     <!-- Go to www.addthis.com/dashboard to customize your tools -->
     <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-57f5ecd918043537"></script>
 
