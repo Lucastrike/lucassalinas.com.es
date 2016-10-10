@@ -29,7 +29,6 @@
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
 
     <script src="assets/js/jquery.min.js"></script>
-	  <script type="text/javascript" src="assets/js/modernizr.custom.js"></script>
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -501,6 +500,7 @@
 	  <script type="text/javascript" src="assets/js/jquery.easing.1.3.js"></script>
     <script type="text/javascript" src="assets/js/smoothscroll.js"></script>
 	  <script type="text/javascript" src="assets/js/jquery-func.js"></script>
+	  <script type="text/javascript" src="assets/js/modernizr.custom.js"></script>
 
     <!-- AddThis
     ================================================= -->
