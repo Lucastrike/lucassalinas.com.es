@@ -28,7 +28,7 @@
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
 
-    <script src="assets/js/jquery.min.js"></script>
+
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -493,7 +493,8 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-
+    
+    <script src="assets/js/jquery.min.js"></script>
 
 	  <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
 	  <script type="text/javascript" src="assets/js/retina.js"></script>
