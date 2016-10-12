@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="title" content="Lucas Salinas || Programador Diseñador Web Godella || Web Valencia" />
-    <meta name="description" content="Programador Diseñador Web Godella Valencia, Android, PHP, JavaScript, CSS3, SEO">
+    <meta name="title" content="Lucas Salinas || Programador Web Godella || Valencia" />
+    <meta name="description" content="Programador Diseñador Web en Godella, Valencia (Android, PHP, JavaScript, CSS3, SEO)">
     <meta name="author" content="Lucas Salinas">
-    <meta name="robots" content="Index, Follow">
+    <meta name="robots" content="index, Follow">
     <meta name="keywords" content="Lucas Salinas, Programador Web Godella, Diseñador Web Godella, Programador Android Godella,
     Programador PHP Godella, Programador JavaScript Godella, Programador CSS3 Godella, programador, diseñador, Paginas Web Godella,
-    Paginas Web Valencia, Aplicaciones Web Godella, Aplicaciones Web Valencia, App, Apps, Aplicaciones Android Godella, Aplicaciones
+    Paginas Web Godella, Paginas Web Valencia, Aplicaciones Web Godella, Aplicaciones Web Valencia, App, Apps, Aplicaciones Android Godella, Aplicaciones
     Android Valencia, Programador SEO Godella, Programador SEO Valencia, Programador Wordpress Godella, Programador Wordpress Valencia">
     <link rel="shortcut icon" href="assets/ico/favicon.ico">
 
@@ -52,7 +52,7 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li><a href="#home" class="smoothScroll">Home</a></li>
+            <li><a href="#headerwrap" class="smoothScroll">Home</a></li>
 			      <li><a href="#about" class="smoothScroll"> Sobre m&iacute;</a></li>
 			      <li><a href="#services" class="smoothScroll"> Servicios</a></li>
 			      <li><a href="#portfolio" class="smoothScroll"> Portfolio</a></li>
@@ -426,7 +426,7 @@
 				<h1>CRAFTED IN VALENCIA, SPAIN.</h1>
 				<hr>
 				<p>Godella</p>
-				<p>+34 649 *** ***</p>
+				<p>.</p>
 			</div><!-- container -->
 		</section><!-- section -->
 
