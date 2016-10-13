@@ -35,6 +35,20 @@
       <script src="assets/js/html5shiv.js"></script>
       <script src="assets/js/respond.min.js"></script>
     <![endif]-->
+
+
+    <!--Este es el código de seguimiento de Universal Analytics para esta propiedad.
+    Cópielo y péguelo en todas las páginas web que quiera supervisar a fin de obtener todas las ventajas de Universal Analytics para la propiedad.-->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-85657827-1', 'auto');
+      ga('send', 'pageview');
+  </script>
+
   </head>
 
   <body data-spy="scroll" data-offset="0" data-target="#navbar-main">
@@ -493,7 +507,7 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    
+
     <script src="assets/js/jquery.min.js"></script>
 
 	  <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
