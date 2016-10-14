@@ -441,7 +441,7 @@ a:after {
 }
 
 .divider6 {
-	background-image: url('../img/bg/valenciabg.png')
+	background-image: url('../img/bg/bg_Valencia.png')
 }
 
 
@@ -654,4 +654,14 @@ a:after {
 
    .contactForm h3 {
      text-align: center;
+   }
+
+
+/* ==========================================================================
+    MAIN LOGO
+   ========================================================================== */
+
+   .mainLogo {
+     width: 8%;
+     height: 8%;
    }

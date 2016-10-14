@@ -4,16 +4,16 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="title" content="Lucas Salinas || Programador Web Godella || Valencia" />
-    <meta name="description" content="Programador Diseñador Web en Godella, Valencia (Android, PHP, JavaScript, CSS3, SEO)">
+    <meta name="description" content="Programador Diseñador Web en Godella, Valencia. Aplicaciones Android, programación PHP y JavaScript. SEO, posicionamiento en buscadores. Configuración de servidores, migraciones, dominios etc.">
     <meta name="author" content="Lucas Salinas">
     <meta name="robots" content="index, Follow">
     <meta name="keywords" content="Lucas Salinas, Programador Web Godella, Diseñador Web Godella, Programador Android Godella,
     Programador PHP Godella, Programador JavaScript Godella, Programador CSS3 Godella, programador, diseñador, Paginas Web Godella,
     Paginas Web Godella, Paginas Web Valencia, Aplicaciones Web Godella, Aplicaciones Web Valencia, App, Apps, Aplicaciones Android Godella, Aplicaciones
     Android Valencia, Programador SEO Godella, Programador SEO Valencia, Programador Wordpress Godella, Programador Wordpress Valencia">
-    <link rel="shortcut icon" href="assets/ico/favicon.ico">
+    <link rel="shortcut icon" href="assets/ico/logoIcon.png">
 
-    <title>Lucas Salinas || Programador Diseñador Web Godella || Web Valencia</title>
+    <title>Lucas Salinas || Programador Diseñador Web Godella || Páginas Web Valencia</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -49,7 +49,7 @@
       ga('send', 'pageview');
   </script>
 
-  </head>
+</head>      <!-- <L/S>  -->
 
   <body data-spy="scroll" data-offset="0" data-target="#navbar-main">
 
@@ -83,7 +83,7 @@
 		<!-- ==== HEADERWRAP ==== -->
 	    <div id="headerwrap">
 			<header class="clearfix">
-	  		 		<h1><span class="icon icon-shield"></span></h1>
+	  		 		<h1><img src="assets/img/logo72dpi.png" class="mainLogo"></img></h1>
 	  		 		<p>Lucas Salinas</p>
 	  		 		<p>Programador Web Godella</p>
 	  		</header>
@@ -440,7 +440,7 @@
 				<h1>CRAFTED IN VALENCIA, SPAIN.</h1>
 				<hr>
 				<p>Godella</p>
-				<p>.</p>
+				<br />
 			</div><!-- container -->
 		</section><!-- section -->
 
