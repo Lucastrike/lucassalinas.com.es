@@ -400,7 +400,7 @@
 				<div class="col-lg-8 blog-bg col-lg-offset-2">
 					<div class="col-lg-4 centered">
 					<br>
-						<p><img class="img img-circle" src="assets/img/team/lucas_perfil2.jpg" width="60" height="60" alt="Lucas Salinas Programador Web Godella"></p>
+						<p><img class="img img-circle fotoPerfil" src="assets/img/team/lucas_perfil.png" alt="Lucas Salinas Programador Web Godella"></p>
 						<h4>Lucas Salinas</h4>
 						<h5>Publicado 8 Oct.</h5>
 					</div>
