@@ -49,7 +49,7 @@
       ga('send', 'pageview');
   </script>
 
-</head>      <!-- <L/S>  -->
+</head>
 
   <body data-spy="scroll" data-offset="0" data-target="#navbar-main">
 
@@ -60,9 +60,9 @@
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="icon icon-shield" style="font-size:30px; color:#3498db;"></span>
+            <img src="assets/img/logo72dpi.png" class="logomenu" />
           </button>
-          <a class="navbar-brand hidden-xs" href=""><span class="icon icon-shield" style="font-size:18px; color:#3498db;"></span></a>
+          <a class="navbar-brand hidden-xs" href=""><img src="assets/img/logo72dpi.png" class="logomenu" /></a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">

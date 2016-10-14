@@ -149,8 +149,12 @@ hr:before {
     background: #ccc;
 }
 
-a img {
-    background: white;
+/* a img */
+.logomenu {
+    /*background: white;  //icon navbar color */
+     /*background: #3498db;*/
+     width: 20px;
+     height: 20px;
 }
 
 .odd a img {
