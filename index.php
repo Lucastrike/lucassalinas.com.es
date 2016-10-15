@@ -67,7 +67,7 @@
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li><a href="#headerwrap" class="smoothScroll">Home</a></li>
-			      <li><a href="#about" class="smoothScroll"> Sobre m&iacute;</a></li>
+			      <li><a href="#about" class="smoothScroll"> Sobre mí</a></li>
 			      <li><a href="#services" class="smoothScroll"> Servicios</a></li>
 			      <li><a href="#portfolio" class="smoothScroll"> Portfolio</a></li>
 			      <li><a href="#blog" class="smoothScroll"> Blog</a></li>
@@ -95,7 +95,7 @@
 				<div class="col-lg-4 callout">
 					<span class="icon icon-stack"></span>
 					<h2>Bootstrap 3</h2>
-					<p>Esta web esta diseñada con Bootstrap 3. El incre&iacute;ble Mobile First Framework, la mejor opci&oacute;n para crear tu web. </p>
+					<p>Esta web esta diseñada con Bootstrap 3. El increíble Mobile First Framework, la mejor opción para crear tu web. </p>
 				</div><!-- col-lg-4 -->
 
 				<div class="col-lg-4 callout">
@@ -107,7 +107,7 @@
 				<div class="col-lg-4 callout">
 					<span class="icon icon-heart"></span>
 					<h2>Crafted with Love</h2>
-					<p>No es solo programaci&oacute;n... Es diseño, creatividad y pasi&oacute;n. El resultado de hacer lo que m&aacute;s me gusta.   </p>
+					<p>No es solo programación... Es diseño, creatividad y pasión. El resultado de hacer lo que más me gusta.   </p>
 				</div><!-- col-lg-4 -->
 			</div><!-- row -->
 		</div><!-- greywrap -->
@@ -116,11 +116,11 @@
 		<div class="container" id="about">
 			<div class="row white">
 			<br>
-				<h1 class="centered">UN POCO SOBRE M&Iacute;</h1>
+				<h1 class="centered">UN POCO SOBRE MI</h1>
 				<hr>
 
 				<div class="col-lg-6 col-lg-offset-3">
-					<p>Creo que las ideas vienen de todo el mundo, de todas partes. De hecho, me considero un diseñador. Y hay algunos principios que creo que todo el mundo debe creer sobre el diseño. Estas verdades nos llevan, nos motivan, y en última instancia nos ayudan a redefinir el poder del diseño. Soy un gran creyente de hacer lo correcto por los dem&aacute;s. Después de todo, he crecido aqui y creo que este lugar tiene mucho que ofrecer. Así que hago lo que puedo para apoyar a la comunidad que me gusta.</p>
+					<p>Creo que las ideas vienen de todo el mundo, de todas partes. De hecho, me considero un diseñador. Y hay algunos principios que creo que todo el mundo debe creer sobre el diseño. Estas verdades nos llevan, nos motivan, y en última instancia nos ayudan a redefinir el poder del diseño. Soy un gran creyente de hacer lo correcto por los demás. Después de todo, he crecido aqui y creo que este lugar tiene mucho que ofrecer. Así que hago lo que puedo para apoyar a la comunidad que me gusta.</p>
 				</div><!-- col-lg-6 -->
 
 				<!--<div class="col-lg-6">
@@ -134,7 +134,7 @@
 			<div class="container">
 				<h1>EL DISEÑO EXPANDE LAS FRONTERAS</h1>
 				<hr>
-				<p>Para lograr un cambio real, tenemos que ampliar las fronteras. El terreno de lo desconocido est&aacute; lleno de oportunidades.</p>
+				<p>Para lograr un cambio real, tenemos que ampliar las fronteras. El terreno de lo desconocido está lleno de oportunidades.</p>
 			</div><!-- container -->
 		</section><!-- section -->
 
@@ -149,13 +149,13 @@
 				<br>
 				<div class="col-lg-offset-2 col-lg-8">
 					<p>Empleados y consumidores, dos mitades de la totalidad de una marca, la totalidad de la audiencia de una marca. A veces, estas dos mitades tienen puntos de vista muy diferentes, creando un punto débil en la historia de la marca. Esta debilidad empaña la credibilidad haciendo que las marcas que no son creíbles no sean viables.</p>
-					<p>Mi meta es siempre aplastar esa debilidad, diseñando toda la historia de la marca. Haci&eacute;ndola a mano para crear una experiencia que conecte desde dentro hacia fuera.</p>
+					<p>Mi meta es siempre aplastar esa debilidad, diseñando toda la historia de la marca. Haciéndola a mano para crear una experiencia que conecte desde dentro hacia fuera.</p>
 					<p>Al ser fiel a la marca que represento, elevo la audiencia de la misma. Al igual que el amor se convierte en pasión, la pasión se convierte en vocacion, creando toda la historia que el público abraza. En ese momento es cuando la marca es realmente fuerte.</p>
 				</div><!-- col-lg -->
 			</div><!-- row -->
 
 			<div class="row">
-				<h2 class="centered">FILOSOF&Iacute;A MOBILE FIRST, SIEMPRE.</h2>
+				<h2 class="centered">FILOSOFÍA MOBILE FIRST, SIEMPRE.</h2>
 				<hr>
 				<br>
 				<div class="col-lg-offset-2 col-lg-8">
@@ -168,9 +168,9 @@
 		<!-- ==== SECTION DIVIDER2 -->
 		<section class="section-divider textdivider divider2">
 			<div class="container">
-				<h1>EL DISEÑO ES UNA INTERACCI&Oacute;N</h1>
+				<h1>EL DISEÑO ES UNA INTERACCIÓN</h1>
 				<hr>
-				<p>Para desarrollar una conexi&oacute;n m&aacute;s profunda y m&aacute;s significativa con los consumidores, creo que el diseño debe invitarles a tomar parte en la conversaci&oacute;n.</p>
+				<p>Para desarrollar una conexión más profunda y más significativa con los consumidores, creo que el diseño debe invitarles a tomar parte en la conversación.</p>
 			</div><!-- container -->
 		</section><!-- section -->
 
@@ -209,7 +209,7 @@
 						  </div>
 						  <div class="modal-body">
 						    <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" alt="Programador Web Godella Trabajo GitHub"></p>
-                <p>Esta es mi p&aacute;gina personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
+                <p>Esta es mi página personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
 						    <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
 						    <p><b><a href="https://github.com/Lucastrike" target="_blank">Visita el sitio</a></b></p>
 						  </div>
@@ -240,7 +240,7 @@
 						  </div>
 						  <div class="modal-body">
 						    <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" alt="Programador Web Godella Trabajo"></p>
-                <p>Esta es mi p&aacute;gina personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
+                <p>Esta es mi página personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
 						    <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
 						    <p><b><a href="https://github.com/Lucastrike" target="_blank">Visita el sitio</a></b></p>
 						  </div>
@@ -271,7 +271,7 @@
             </div>
             <div class="modal-body">
               <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" alt="Programador Web Godella Trabajo"></p>
-              <p>Esta es mi p&aacute;gina personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
+              <p>Esta es mi página personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
               <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
               <p><b><a href="https://github.com/Lucastrike" target="_blank">Visita el sitio</a></b></p>
             </div>
@@ -302,7 +302,7 @@
 						  </div>
 						  <div class="modal-body">
 						    <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" alt="Programador Web Godella Trabajo"></p>
-                <p>Esta es mi p&aacute;gina personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
+                <p>Esta es mi página personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
 						    <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
 						    <p><b><a href="https://github.com/Lucastrike" target="_blank">Visita el sitio</a></b></p>
 						  </div>
@@ -332,7 +332,7 @@
 						  </div>
 						  <div class="modal-body">
 						    <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" alt="Programador Web Godella Trabajo"></p>
-                <p>Esta es mi p&aacute;gina personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
+                <p>Esta es mi página personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
 						    <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
 						    <p><b><a href="https://github.com/Lucastrike" target="_blank">Visita el sitio</a></b></p>
 						  </div>
@@ -362,7 +362,7 @@
 						  </div>
 						  <div class="modal-body">
 						    <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" alt="Programador Web Godella Trabajo"></p>
-                <p>Esta es mi p&aacute;gina personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
+                <p>Esta es mi página personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
 						    <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
 						    <p><b><a href="https://github.com/Lucastrike" target="_blank">Visita el sitio</a></b></p>
 						  </div>
@@ -379,9 +379,9 @@
 		<!-- ==== SECTION DIVIDER4 ==== -->
 		<section class="section-divider textdivider divider4">
 			<div class="container">
-				<h1>EL DISEÑO CREA UNA CONEXI&Oacute;N EMOCIONAL</h1>
+				<h1>EL DISEÑO CREA UNA CONEXIÓN EMOCIONAL</h1>
 				<hr>
-				<p>Hay mucho m&aacute;s en el diseño de lo que parece. Es cuando se encuentra con el corazón, cuando el diseño crea una conexi&oacute;n significativa y duradera con el p&uacute;blico.</p>
+				<p>Hay mucho más en el diseño de lo que parece. Es cuando se encuentra con el corazón, cuando el diseño crea una conexión significativa y duradera con el público.</p>
 			</div><!-- container -->
 		</section><!-- section -->
 
