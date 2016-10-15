@@ -60,9 +60,9 @@
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <img src="assets/img/logo_azul.png" class="logomenu" />
+            <img src="assets/img/logo_azul.png" class="logomenu" alt="Logo movil programador web godella"/>
           </button>
-          <a class="navbar-brand hidden-xs" href=""><img src="assets/img/logo_azul.png" class="logomenu" /></a>
+          <a class="navbar-brand hidden-xs" href=""><img src="assets/img/logo_azul.png" class="logomenu" alt="logo menu programador web godella" /></a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
@@ -83,7 +83,7 @@
 		<!-- ==== HEADERWRAP ==== -->
 	    <div id="headerwrap"  itemscope itemtype="http://schema.org/LocalBusiness">
 			<header class="clearfix">
-	  		 		<img src="assets/img/logo72dpi.png" class="mainLogo" itemprop="logo"></img>
+	  		 		<img src="assets/img/logo72dpi.png" class="mainLogo" itemprop="logo" alt="logo programador web godella"></img>
             <span itemscope itemtype="http://schema.org/Person"><p itemprop="name">Lucas Salinas</p></span>
 	  		 		<p itemprop="name">Programador Web Godella</p>
 	  		</header>
@@ -160,7 +160,7 @@
 				<hr>
 				<br>
 				<div class="col-lg-offset-2 col-lg-8">
-					<img class="img-responsive" src="assets/img/iphone.png" alt="Programador web Godella Android">
+					<img class="img-responsive" src="assets/img/iphone.png" alt="iphone Programador web Godella Android">
 				</div><!-- col -->
 			</div><!-- row -->
 		</div><!-- container -->
@@ -176,11 +176,11 @@
 		</section><!-- section -->
 
 		<!-- ==== PORTFOLIO ==== -->
-		<div class="container" id="portfolio">
+		<div class="container" id="portfolio" itemscope itemtype="https://schema.org/CreativeWork">
 		<br>
 			<div class="row">
 				<br>
-				<h1 class="centered">PROYECTOS</h1>
+				<h1 class="centered" itemprop="about">PROYECTOS</h1>
 				<hr>
 				<br>
 				<br>
@@ -192,7 +192,7 @@
 				<div class="col-md-4 ">
 			    	<div class="grid mask">
 						<figure>
-							<img class="img-responsive" src="assets/img/portfolio/folio01.png" alt="Lucas Salinas Github Programador Godella">
+							<img class="img-responsive" src="assets/img/portfolio/folio01.png" itemprop="image" alt="Lucas Salinas Github Programador Web Godella">
 							<figcaption>
 								<h5>GITHUB</h5>
 								<a data-toggle="modal" href="#githubModal" class="btn btn-primary btn-lg">Take a Look</a>
@@ -206,13 +206,13 @@
 						<div class="modal-content">
 						  <div class="modal-header">
 						    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-						    <h4 class="modal-title">GitHub</h4>
+						    <h4 class="modal-title" itemprop="name">GitHub</h4>
 						  </div>
 						  <div class="modal-body">
-						    <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" alt="Programador Web Godella Trabajo GitHub"></p>
-                <p>Esta es mi página personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
+						    <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" itemprop="image" alt="Programador Web Godella Trabajo GitHub"></p>
+                <p itemprop="description">Esta es mi página personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
 						    <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
-						    <p><b><a href="https://github.com/Lucastrike" target="_blank">Visita el sitio</a></b></p>
+						    <p><b><a href="https://github.com/Lucastrike" itemprop="url" target="_blank">Visita el sitio</a></b></p>
 						  </div>
 						</div><!-- /.modal-content -->
 					</div><!-- /.modal-dialog -->
@@ -237,13 +237,13 @@
 						<div class="modal-content">
 						  <div class="modal-header">
 						    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-						    <h4 class="modal-title">GitHub</h4>
+						    <h4 class="modal-title" itemprop="name">GitHub</h4>
 						  </div>
 						  <div class="modal-body">
-						    <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" alt="Programador Web Godella Trabajo"></p>
-                <p>Esta es mi página personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
+						    <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" itemprop="image" alt="Programador Web Godella Trabajo"></p>
+                <p itemprop="description">Esta es mi página personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
 						    <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
-						    <p><b><a href="https://github.com/Lucastrike" target="_blank">Visita el sitio</a></b></p>
+						    <p><b><a href="https://github.com/Lucastrike" itemprop="url" target="_blank">Visita el sitio</a></b></p>
 						  </div>
 						</div><!-- /.modal-content -->
 					</div><!-- /.modal-dialog -->
@@ -253,7 +253,7 @@
 				<div class="col-md-4">
 			    	<div class="grid mask">
 						<figure>
-							<img class="img-responsive" src="assets/img/portfolio/folio03.jpg" alt="Aplicaciones Android Lucas Salinas">
+							<img class="img-responsive" src="assets/img/portfolio/folio03.jpg" alt="Aplicaciones Android Programador Web Godella">
 							<figcaption>
 								<h5>ANDROID PAGE</h5>
 								<a data-toggle="modal" href="#myModal3" class="btn btn-primary btn-lg">Take a Look</a>
@@ -268,13 +268,13 @@
           <div class="modal-content">
             <div class="modal-header">
               <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-              <h4 class="modal-title">GitHub</h4>
+              <h4 class="modal-title" itemprop="name">GitHub</h4>
             </div>
             <div class="modal-body">
-              <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" alt="Programador Web Godella Trabajo"></p>
-              <p>Esta es mi página personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
+              <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" itemprop="image" alt="Programador Web Godella Trabajo"></p>
+              <p itemprop="description">Esta es mi página personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
               <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
-              <p><b><a href="https://github.com/Lucastrike" target="_blank">Visita el sitio</a></b></p>
+              <p><b><a href="https://github.com/Lucastrike" itemprop="url" target="_blank">Visita el sitio</a></b></p>
             </div>
           </div><!-- /.modal-content -->
         </div><!-- /.modal-dialog -->
@@ -299,13 +299,13 @@
 						<div class="modal-content">
 						  <div class="modal-header">
 						    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-						    <h4 class="modal-title">GitHub</h4>
+						    <h4 class="modal-title" itemprop="name">GitHub</h4>
 						  </div>
 						  <div class="modal-body">
-						    <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" alt="Programador Web Godella Trabajo"></p>
-                <p>Esta es mi página personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
+						    <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" itemprop="image" alt="Programador Web Godella Trabajo"></p>
+                <p itemprop="description">Esta es mi página personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
 						    <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
-						    <p><b><a href="https://github.com/Lucastrike" target="_blank">Visita el sitio</a></b></p>
+						    <p><b><a href="https://github.com/Lucastrike" itemprop="url" target="_blank">Visita el sitio</a></b></p>
 						  </div>
 						</div><!-- /.modal-content -->
 					</div><!-- /.modal-dialog -->
@@ -329,13 +329,13 @@
 						<div class="modal-content">
 						  <div class="modal-header">
 						    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-						    <h4 class="modal-title">GitHub</h4>
+						    <h4 class="modal-title" itemprop="name">GitHub</h4>
 						  </div>
 						  <div class="modal-body">
-						    <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" alt="Programador Web Godella Trabajo"></p>
-                <p>Esta es mi página personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
+						    <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" itemprop="image" alt="Programador Web Godella Trabajo"></p>
+                <p itemprop="description">Esta es mi página personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
 						    <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
-						    <p><b><a href="https://github.com/Lucastrike" target="_blank">Visita el sitio</a></b></p>
+						    <p><b><a href="https://github.com/Lucastrike" itemprop="url" target="_blank">Visita el sitio</a></b></p>
 						  </div>
 						</div><!-- /.modal-content -->
 					</div><!-- /.modal-dialog -->
@@ -359,13 +359,13 @@
 						<div class="modal-content">
 						  <div class="modal-header">
 						    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-						    <h4 class="modal-title">GitHub</h4>
+						    <h4 class="modal-title" itemprop="name">GitHub</h4>
 						  </div>
 						  <div class="modal-body">
-						    <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" alt="Programador Web Godella Trabajo"></p>
-                <p>Esta es mi página personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
+						    <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" itemprop="image" alt="Programador Web Godella Trabajo"></p>
+                <p itemprop="description">Esta es mi página personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
 						    <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
-						    <p><b><a href="https://github.com/Lucastrike" target="_blank">Visita el sitio</a></b></p>
+						    <p><b><a href="https://github.com/Lucastrike" itemprop="url" target="_blank">Visita el sitio</a></b></p>
 						  </div>
 						</div><!-- /.modal-content -->
 					</div><!-- /.modal-dialog -->
@@ -387,23 +387,23 @@
 		</section><!-- section -->
 
 		<!-- ==== BLOG ==== -->
-		<div class="container" id="blog">
+		<div class="container" id="blog" itemscope itemtype="http://schema.org/Blog">
 		<br>
 			<div class="row">
 				<br>
-				<h1 class="centered">PUBLICACIONES</h1>
+				<h1 class="centered" itemprop="name">PUBLICACIONES</h1>
 				<hr>
 				<br>
 				<br>
 			</div><!-- /row -->
 
-			<div class="row" itemscope itemtype="http://schema.org/Blog">
+			<div class="row">
 				<div class="col-lg-8 blog-bg col-lg-offset-2">
 					<div class="col-lg-4 centered">
 					<br>
-						<p><img class="img img-circle fotoPerfil" src="assets/img/team/lucas_perfil.png" alt="Lucas Salinas Programador Web Godella"></p>
+						<p><img class="img img-circle fotoPerfil" src="assets/img/team/lucas_perfil.png" itemprop="image" alt="Perfil Lucas Salinas Programador Web Godella"></p>
 						<h4 itemprop="author">Lucas Salinas</h4>
-						<h5 itemprop="datePublished">Publicado 8 Oct.</h5>
+						<h5>Publicado <span itemprop="datePublished">8 Oct.</span></h5>
 					</div>
 					<div class="col-lg-8 blog-content">
 						<h2 itemprop="about">Definiendo el éxito</h2>
