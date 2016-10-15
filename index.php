@@ -81,11 +81,11 @@
 
 
 		<!-- ==== HEADERWRAP ==== -->
-	    <div id="headerwrap">
+	    <div id="headerwrap"  itemscope itemtype="http://schema.org/LocalBusiness">
 			<header class="clearfix">
-	  		 		<img src="assets/img/logo72dpi.png" class="mainLogo"></img>
-	  		 		<p>Lucas Salinas</p>
-	  		 		<p>Programador Web Godella</p>
+	  		 		<img src="assets/img/logo72dpi.png" class="mainLogo" itemprop="logo"></img>
+            <span itemscope itemtype="http://schema.org/Person"><p itemprop="name">Lucas Salinas</p></span>
+	  		 		<p itemprop="name">Programador Web Godella</p>
 	  		</header>
 	    </div><!-- /headerwrap -->
 
@@ -113,14 +113,15 @@
 		</div><!-- greywrap -->
 
 		<!-- ==== ABOUT ==== -->
-		<div class="container" id="about">
+		<div class="container" id="about" itemscope itemtype="http://schema.org/Person">
 			<div class="row white">
 			<br>
-				<h1 class="centered">UN POCO SOBRE MI</h1>
+				<h1 class="centered">UN POCO SOBRE MÍ</h1>
 				<hr>
 
 				<div class="col-lg-6 col-lg-offset-3">
-					<p>Creo que las ideas vienen de todo el mundo, de todas partes. De hecho, me considero un diseñador. Y hay algunos principios que creo que todo el mundo debe creer sobre el diseño. Estas verdades nos llevan, nos motivan, y en última instancia nos ayudan a redefinir el poder del diseño. Soy un gran creyente de hacer lo correcto por los demás. Después de todo, he crecido aqui y creo que este lugar tiene mucho que ofrecer. Así que hago lo que puedo para apoyar a la comunidad que me gusta.</p>
+					<p>Creo que las ideas vienen de todo el mundo, de todas partes. De hecho, me considero un diseñador. Y hay algunos principios que creo que todo el mundo debe creer sobre el diseño. Estas verdades nos llevan, nos motivan, y en última instancia nos ayudan a redefinir el poder del diseño.<br />
+          <br />En la actualidad soy estudiante de <strong itemprop="jobTitle">desarrollo de aplicaciones web</strong> en <a href="http://www.solvam.es" itemprop="sponsor">Solvam</a> y residente en <em><strong itemprop="homeLocation">Godella</strong></em>. Cuento con amplias capacidades y habilidades adquiridas en los diferentes campos de estudio que he recorrido y en mi vida personal, tanto trabajando y estudiando en España como en el Reino Unido. Habilidades que junto con la experiencia se unen para continuar en una única dirección, el éxito.</p>
 				</div><!-- col-lg-6 -->
 
 				<!--<div class="col-lg-6">
@@ -150,7 +151,7 @@
 				<div class="col-lg-offset-2 col-lg-8">
 					<p>Empleados y consumidores, dos mitades de la totalidad de una marca, la totalidad de la audiencia de una marca. A veces, estas dos mitades tienen puntos de vista muy diferentes, creando un punto débil en la historia de la marca. Esta debilidad empaña la credibilidad haciendo que las marcas que no son creíbles no sean viables.</p>
 					<p>Mi meta es siempre aplastar esa debilidad, diseñando toda la historia de la marca. Haciéndola a mano para crear una experiencia que conecte desde dentro hacia fuera.</p>
-					<p>Al ser fiel a la marca que represento, elevo la audiencia de la misma. Al igual que el amor se convierte en pasión, la pasión se convierte en vocacion, creando toda la historia que el público abraza. En ese momento es cuando la marca es realmente fuerte.</p>
+					<p>Al ser fiel a la marca que represento, elevo la audiencia de la misma. Al igual que el amor se convierte en pasión, la pasión se convierte en vocación, creando toda la historia que el público abraza. En ese momento es cuando la marca es realmente fuerte.</p>
 				</div><!-- col-lg -->
 			</div><!-- row -->
 
@@ -179,7 +180,7 @@
 		<br>
 			<div class="row">
 				<br>
-				<h1 class="centered">I CREATE COOL STUFF</h1>
+				<h1 class="centered">PROYECTOS</h1>
 				<hr>
 				<br>
 				<br>
@@ -390,25 +391,27 @@
 		<br>
 			<div class="row">
 				<br>
-				<h1 class="centered">I'M A STORYTELLER</h1>
+				<h1 class="centered">PUBLICACIONES</h1>
 				<hr>
 				<br>
 				<br>
 			</div><!-- /row -->
 
-			<div class="row">
+			<div class="row" itemscope itemtype="http://schema.org/Blog">
 				<div class="col-lg-8 blog-bg col-lg-offset-2">
 					<div class="col-lg-4 centered">
 					<br>
 						<p><img class="img img-circle fotoPerfil" src="assets/img/team/lucas_perfil.png" alt="Lucas Salinas Programador Web Godella"></p>
-						<h4>Lucas Salinas</h4>
-						<h5>Publicado 8 Oct.</h5>
+						<h4 itemprop="author">Lucas Salinas</h4>
+						<h5 itemprop="datePublished">Publicado 8 Oct.</h5>
 					</div>
 					<div class="col-lg-8 blog-content">
-						<h2>Definiendo el éxito</h2>
-						<p>Armado con perspicacia, me embarco en el diseño de la correcta marca que enganche a la audiencia. Abarco tanto la dirección estratégica como la ejecución creativa que resuelve un problema de negocio y trae vida a la marca.</p>
-						<p>En la fase de creación, la gran idea se desata al mundo a través de diferentes puntos de contacto con los medios de comunicación. Esto es cuando vemos a la audiencia caer enamorada de nuevo con la marca de mi cliente.</p>
-						<!--<p><a href="#" class="icon icon-link"> Read More</a></p>-->
+						<h2 itemprop="about">Definiendo el éxito</h2>
+            <span itemprop="blogPost">
+						  <p>Armado de creatividad y ambición, me embarco en el <strong>diseño</strong> y <strong>programación</strong> tanto de <strong>páginas web</strong> como de <strong>aplicaciones móviles</strong>. Abarco tanto la dirección estratégica como la ejecución creativa que resuelve un problema de negocio y trae vida a la marca.</p>
+						  <p>En la fase de creación, la gran idea se desata al mundo a través de diferentes puntos de contacto con los medios de comunicación. En este momento es cuando vemos a la audiencia caer enamorada de nuevo con la marca de mi cliente.</p>
+            </span>
+            <!--<p><a href="#" class="icon icon-link"> Read More</a></p>-->
 						<br>
 					</div>
 				</div><!-- /col -->
@@ -436,10 +439,10 @@
 
 		<!-- ==== SECTION DIVIDER6 ==== -->
 		<section class="section-divider textdivider divider6">
-			<div class="container">
-				<h1>CRAFTED IN <strong>VALENCIA</strong>, SPAIN.</h1>
+			<div class="container" itemscope itemtype="http://schema.org/PostalAddress">
+				<h1>CRAFTED IN <span itemprop="addressRegion">VALENCIA</span>, SPAIN.</h1>
 				<hr>
-				<p><strong>Godella</strong></p>
+				<p itemprop="addressLocality">Godella</p>
 				<br />
 			</div><!-- container -->
 		</section><!-- section -->
@@ -451,10 +454,11 @@
 				<hr>
 				<br>
 
-				<div class="col-lg-12 contactForm">
+				<div class="col-lg-12 contactForm" itemscope itemtype="http://schema.org/EmailMessage">
             <h3>Contacta conmigo</h3>
             <form role="form" action="<?php echo $_SERVER["PHP_SELF"]; ?>" method="post" >
       				<div class="col-md-8 col-md-offset-2">
+                <span itemprop="sender">
       					<div class="form-group">
       						<label for="InputName">Tu Nombre</label>
       						<div class="input-group">
@@ -470,6 +474,7 @@
       							<span class="input-group-addon"><i class="glyphicon glyphicon-ok form-control-feedback"></i></span>
       						</div>
       					</div>
+                </span>
 
       					<div class="form-group">
       						<label for="InputMessage">Mensaje</label>
@@ -499,8 +504,8 @@
 		</div><!-- container -->
 
 		<div id="footerwrap">
-			<div class="container">
-				<h4>Created by Lucas Salinas</h4>
+			<div class="container" itemscope itemtype="http://schema.org/CreativeWork">
+				<h4>Created by <span itemprop="author">Lucas Salinas</span></h4>
 			</div>
 		</div>
 
