@@ -60,9 +60,9 @@
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <img src="assets/img/logo72dpi.png" class="logomenu" />
+            <img src="assets/img/logo_azul.png" class="logomenu" />
           </button>
-          <a class="navbar-brand hidden-xs" href=""><img src="assets/img/logo72dpi.png" class="logomenu" /></a>
+          <a class="navbar-brand hidden-xs" href=""><img src="assets/img/logo_azul.png" class="logomenu" /></a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
@@ -437,9 +437,9 @@
 		<!-- ==== SECTION DIVIDER6 ==== -->
 		<section class="section-divider textdivider divider6">
 			<div class="container">
-				<h1>CRAFTED IN VALENCIA, SPAIN.</h1>
+				<h1>CRAFTED IN <strong>VALENCIA</strong>, SPAIN.</h1>
 				<hr>
-				<p>Godella</p>
+				<p><strong>Godella</strong></p>
 				<br />
 			</div><!-- container -->
 		</section><!-- section -->
