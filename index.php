@@ -83,7 +83,7 @@
 		<!-- ==== HEADERWRAP ==== -->
 	    <div id="headerwrap">
 			<header class="clearfix">
-	  		 		<h1><img src="assets/img/logo72dpi.png" class="mainLogo"></img></h1>
+	  		 		<img src="assets/img/logo72dpi.png" class="mainLogo"></img>
 	  		 		<p>Lucas Salinas</p>
 	  		 		<p>Programador Web Godella</p>
 	  		</header>
