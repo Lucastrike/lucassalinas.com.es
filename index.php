@@ -123,13 +123,17 @@
 					<p>Creo que las ideas vienen de todo el mundo, de todas partes. De hecho, me considero un diseñador. Y hay algunos principios que creo que todo el mundo debe creer sobre el diseño. Estas verdades nos llevan, nos motivan, y en última instancia nos ayudan a redefinir el poder del diseño.<br />
           <br />En la actualidad soy estudiante de <strong itemprop="jobTitle">desarrollo de aplicaciones web</strong> en <a href="http://www.solvam.es" itemprop="sponsor">Solvam</a> y residente en <em><strong itemprop="homeLocation">Godella</strong></em>.
           Cuento con amplias capacidades y habilidades adquiridas en los diferentes campos de estudio que he recorrido y en mi vida personal, tanto trabajando y estudiando en España como en el Reino Unido. Habilidades que junto con la experiencia se unen para continuar en una única dirección, el éxito.</p>
-          <img src="assets/ico/instagram_black.png" class="insta" width="50" height="50" />
-          <img src="assets/ico/github.png" class="github" width="50" height="50" />
 				</div><!-- col-lg-6 -->
 
-				<!--<div class="col-lg-6">
-					<p></p>
-				</div>--><!-- col-lg-6 -->
+				<div class="col-xs-5 text-right">
+          <a href="https://www.instagram.com/lucastrike1/" target="_blank"><img src="assets/ico/instagram.png" class="instagram" alt="instagram"/></a>
+				</div><!-- col-xs-5 -->
+
+        <div class="col-xs-2"></div><!-- col-xs-2 -->
+
+        <div class="col-xs-5">
+          <img src="assets/ico/github.png" class="github" />
+				</div><!-- col-xs-5 -->
 			</div><!-- row -->
 		</div><!-- container -->
 
