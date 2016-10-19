@@ -496,12 +496,12 @@
       			</form>
 
             <?php
-
+              /*
               $name = $_POST["name"];
               $email = $_POST["email"];
               $message = $_POST["message"];
               mail ("lucastrike1@gmail.com", $name, $message, "From: $email");
-
+              */
              ?>
 
 				</div><!-- col -->
