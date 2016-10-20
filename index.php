@@ -494,15 +494,13 @@
       					<input type="submit" name="submit" id="submit" value="Enviar" class="btn wow tada btn-embossed btn-primary pull-right">
       				</div>
       			</form>
-
-            <?php
-              /*
-              $name = $_POST["name"];
-              $email = $_POST["email"];
-              $message = $_POST["message"];
-              mail ("lucastrike1@gmail.com", $name, $message, "From: $email");
-              */
-             ?>
+                <?php if ($_SERVER["REQUEST_METHOD"]=="POST"){
+                  $name = $_POST["name"];
+                  $email = $_POST["email"];
+                  $message = $_POST["message"];
+                  mail ("lucastrike1@gmail.com", $name, $message, "From: $email");
+                }
+                ?>
 
 				</div><!-- col -->
 
