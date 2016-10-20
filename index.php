@@ -494,10 +494,10 @@
       					<input type="submit" name="submit" id="submit" value="Enviar" class="btn wow tada btn-embossed btn-primary pull-right">
       				</div>
       			</form>
-                <?php if ($_SERVER["REQUEST_METHOD"]=="POST"){
-                  $name = $_POST["name"];
+                <?php if (isset($_POST['Enviar'])){
+                  $name = $_POST["InputName"];
                   $email = $_POST["email"];
-                  $message = $_POST["message"];
+                  $message = $_POST["InputMessage"];
                   mail ("lucastrike1@gmail.com", $name, $message, "From: $email");
                 }
                 ?>
