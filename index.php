@@ -1,3 +1,37 @@
+
+<!--
+
+
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MM`     hMMMMMMMMMMMMs                         `MM
+MM`     hMMMMMMMMMMMMs                         `MM
+MM`     hMMMMMMMMMMMMs                         `MM
+MM`     hMMMMMMMMMMMMs      sMMMMMMMMMMMMMMMMMMMMd
+MM`     hMMMMMMMMMMMMs      sMMMMMMMMMMMMMMMMMMMMd
+MM`     hMMMMMMMMMMMMs      sMMMMMMMMMMMMMMMMMMMMd
+MM`     hMMMMMMMMMMMMs      sMMMMMMMMMMMMMMMMMMMMd
+MM`     hMMMMMMMMMMMMs      sMMMMMMMMMMMMMMMMMMMMd
+MM`     hMMMMMMMMMMMMs      ```````````````````.Md
+MM`     hMMMMMMMMMMMMs                         -Md
+MM`     hMMMMMMMMMMMMs                         :Md
+MM`     hMMMMMMMMMMMMh//////////////ooooo+     :Md
+MM`     hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN     :Md
+MM`     hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN     :Md
+MM`     hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd     :Md
+hM:     .mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN-     +Mo
+:Md`      /hMMMMMMMMMMMMMMMMMMMMMMMMMMh+`     .NN.
+ +Md-       `/hMMMMMMMMMMMMMMMMMMMMh/`       :mN:
+  -dMh+`       `/hMMMMMMMMMMMMMMh/`       `+dMh.
+    .omMh/`       `/hMMMMMMMMh/`       `+dMdo.
+       -omMh/`       `/hMMh/`       `+dMdo.
+          -smMh/`       ``       `+hMdo.
+             -smMh/`          `+hMdo.
+                -smNy/`    `+hMmo.
+                   -sNNy/+hMmo.
+                      -sNmo.
+-->
+
+
 <!DOCTYPE html>
 <html lang="es">
   <head>
@@ -500,7 +534,7 @@
 
 		<div id="footerwrap">
 			<div class="container" itemscope itemtype="http://schema.org/CreativeWork">
-				<h4>Created by <span itemprop="author">Lucas Salinas</span></h4>
+				<h4>Created by <span itemprop="author">Lucas Salinas &copy;</span></h4>
 			</div>
 		</div>
 
