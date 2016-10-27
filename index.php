@@ -1,38 +1,17 @@
 
+<!DOCTYPE html>
+
 <!--
 
+          "The secret is not to give up hope.
+          It's very hard not to because if you're really doing something worthwhile
+          I think you will be pushed to the brink of hopelessness before
+          you come through the other side."
 
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MM`     hMMMMMMMMMMMMs                         `MM
-MM`     hMMMMMMMMMMMMs                         `MM
-MM`     hMMMMMMMMMMMMs                         `MM
-MM`     hMMMMMMMMMMMMs      sMMMMMMMMMMMMMMMMMMMMd
-MM`     hMMMMMMMMMMMMs      sMMMMMMMMMMMMMMMMMMMMd
-MM`     hMMMMMMMMMMMMs      sMMMMMMMMMMMMMMMMMMMMd
-MM`     hMMMMMMMMMMMMs      sMMMMMMMMMMMMMMMMMMMMd
-MM`     hMMMMMMMMMMMMs      sMMMMMMMMMMMMMMMMMMMMd
-MM`     hMMMMMMMMMMMMs      ```````````````````.Md
-MM`     hMMMMMMMMMMMMs                         -Md
-MM`     hMMMMMMMMMMMMs                         :Md
-MM`     hMMMMMMMMMMMMh//////////////ooooo+     :Md
-MM`     hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN     :Md
-MM`     hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN     :Md
-MM`     hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd     :Md
-hM:     .mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN-     +Mo
-:Md`      /hMMMMMMMMMMMMMMMMMMMMMMMMMMh+`     .NN.
- +Md-       `/hMMMMMMMMMMMMMMMMMMMMh/`       :mN:
-  -dMh+`       `/hMMMMMMMMMMMMMMh/`       `+dMh.
-    .omMh/`       `/hMMMMMMMMh/`       `+dMdo.
-       -omMh/`       `/hMMh/`       `+dMdo.
-          -smMh/`       ``       `+hMdo.
-             -smMh/`          `+hMdo.
-                -smNy/`    `+hMmo.
-                   -sNNy/+hMmo.
-                      -sNmo.
+                          George Lucas
+
 -->
 
-
-<!DOCTYPE html>
 <html lang="es">
   <head>
     <meta charset="utf-8">
@@ -47,7 +26,7 @@ hM:     .mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN-     +Mo
     Android Valencia, Programador SEO Godella, Programador SEO Valencia, Programador Wordpress Godella, Programador Wordpress Valencia">
     <link rel="shortcut icon" href="assets/ico/logoIcon.png">
 
-    <title>Lucas Salinas || Programador Diseñador Web Godella || Páginas Web Valencia</title>
+    <title>Programador Diseñador Web Godella || Páginas Web Valencia</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -254,7 +233,7 @@ hM:     .mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN-     +Mo
 				<div class="col-md-4">
 			    	<div class="grid mask">
 						<figure>
-							<img class="img-responsive" src="assets/img/portfolio/folio02.jpg" alt="Diseño Interfaces Lucas Salinas">
+							<img class="img-responsive" src="assets/img/portfolio/folio02.png" alt="Diseño Interfaces Lucas Salinas">
 							<figcaption>
 								<h5>UI DESIGN</h5>
 								<a data-toggle="modal" href="#myModal2" class="btn btn-primary btn-lg">Take a Look</a>
@@ -268,13 +247,13 @@ hM:     .mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN-     +Mo
 						<div class="modal-content">
 						  <div class="modal-header">
 						    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-						    <h4 class="modal-title" itemprop="name">GitHub</h4>
+						    <h4 class="modal-title" itemprop="name">UI Design</h4>
 						  </div>
 						  <div class="modal-body">
-						    <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" itemprop="image" alt="Programador Web Godella Trabajo"></p>
-                <p itemprop="description">Esta es mi página personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
+						    <p><img class="img-responsive" src="assets/img/portfolio/folio02.png" itemprop="image" alt="Programador Web Godella Trabajo"></p>
+                <p itemprop="description">Esta web es una galería de fotos exclusiva para sus usuarios diseñada con Bootstrap, PHP y jQuery.</p>
 						    <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
-						    <p><b><a href="https://github.com/Lucastrike" itemprop="url" target="_blank">Visita el sitio</a></b></p>
+						    <p><b><a href="http://www.lucassalinas.com.es/PHP/Tema2/ProjectGallery/index.php" itemprop="url" target="_blank">Visita el sitio</a></b></p>
 						  </div>
 						</div><!-- /.modal-content -->
 					</div><!-- /.modal-dialog -->
@@ -299,13 +278,13 @@ hM:     .mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN-     +Mo
           <div class="modal-content">
             <div class="modal-header">
               <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-              <h4 class="modal-title" itemprop="name">GitHub</h4>
+              <h4 class="modal-title" itemprop="name">Android Page</h4>
             </div>
             <div class="modal-body">
-              <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" itemprop="image" alt="Programador Web Godella Trabajo"></p>
-              <p itemprop="description">Esta es mi página personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
+              <p><img class="img-responsive" src="assets/img/portfolio/folio03.jpg" itemprop="image" alt="Programador Web Godella Trabajo"></p>
+              <p itemprop="description">...</p>
               <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
-              <p><b><a href="https://github.com/Lucastrike" itemprop="url" target="_blank">Visita el sitio</a></b></p>
+              <p><b><a href="https://github.com/Lucastrike/android" itemprop="url" target="_blank">Visita el sitio</a></b></p>
             </div>
           </div><!-- /.modal-content -->
         </div><!-- /.modal-dialog -->
@@ -330,11 +309,11 @@ hM:     .mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN-     +Mo
 						<div class="modal-content">
 						  <div class="modal-header">
 						    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-						    <h4 class="modal-title" itemprop="name">GitHub</h4>
+						    <h4 class="modal-title" itemprop="name">Profile</h4>
 						  </div>
 						  <div class="modal-body">
-						    <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" itemprop="image" alt="Programador Web Godella Trabajo"></p>
-                <p itemprop="description">Esta es mi página personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
+						    <p><img class="img-responsive" src="assets/img/portfolio/folio04.jpg" itemprop="image" alt="Programador Web Godella Trabajo"></p>
+                <p itemprop="description">...</p>
 						    <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
 						    <p><b><a href="https://github.com/Lucastrike" itemprop="url" target="_blank">Visita el sitio</a></b></p>
 						  </div>
@@ -360,11 +339,11 @@ hM:     .mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN-     +Mo
 						<div class="modal-content">
 						  <div class="modal-header">
 						    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-						    <h4 class="modal-title" itemprop="name">GitHub</h4>
+						    <h4 class="modal-title" itemprop="name">Twitter Status</h4>
 						  </div>
 						  <div class="modal-body">
-						    <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" itemprop="image" alt="Programador Web Godella Trabajo"></p>
-                <p itemprop="description">Esta es mi página personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
+						    <p><img class="img-responsive" src="assets/img/portfolio/folio05.jpg" itemprop="image" alt="Programador Web Godella Trabajo"></p>
+                <p itemprop="description">...</p>
 						    <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
 						    <p><b><a href="https://github.com/Lucastrike" itemprop="url" target="_blank">Visita el sitio</a></b></p>
 						  </div>
@@ -390,11 +369,11 @@ hM:     .mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN-     +Mo
 						<div class="modal-content">
 						  <div class="modal-header">
 						    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-						    <h4 class="modal-title" itemprop="name">GitHub</h4>
+						    <h4 class="modal-title" itemprop="name">Phone Mockup</h4>
 						  </div>
 						  <div class="modal-body">
-						    <p><img class="img-responsive" src="assets/img/portfolio/folio01.png" itemprop="image" alt="Programador Web Godella Trabajo"></p>
-                <p itemprop="description">Esta es mi página personal de GitHub donde subo todo el trabajo que hago sobre JavaScript, PHP, HTML, CSS, Android etc.</p>
+						    <p><img class="img-responsive" src="assets/img/portfolio/folio06.jpg" itemprop="image" alt="Programador Web Godella Trabajo"></p>
+                <p itemprop="description">...</p>
 						    <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
 						    <p><b><a href="https://github.com/Lucastrike" itemprop="url" target="_blank">Visita el sitio</a></b></p>
 						  </div>
@@ -518,11 +497,26 @@ hM:     .mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN-     +Mo
       					<input type="submit" name="Submit" id="submit" value="Enviar" class="btn wow tada btn-embossed btn-primary pull-right">
       				</div>
       			</form>
-                <?php if (isset($_POST['Submit'])){
-                  $name = $_POST["name"];
+                <?php
+
+                  require 'PHPMailerAutoload.php';
+
+                  $mail = new PHPMailer;
+
+                  if (isset($_POST['Submit'])){
+                  /*$name = $_POST["name"];
                   $email = $_POST["email"];
                   $message = $_POST["message"];
-                  mail ("lucastrike1@gmail.com", $name, $message, "From: $email");
+                  mail ("lucastrike1@gmail.com", $name, $message, "From: $email");*/
+
+                  $mail->setFrom('from@example.com', 'Mailer');
+                  $mail->addAddress('joe@example.net', 'Joe User');     // Add a recipient
+
+                  $mail->isHTML(true);                                  // Set email format to HTML
+
+                  $mail->Subject = 'Here is the subject';
+                  $mail->Body    = 'This is the HTML message body <b>in bold!</b>';
+
                 }
                 ?>
 
