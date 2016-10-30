@@ -549,9 +549,7 @@
       			</form>
                 <?php
 
-                  require 'class.phpmailer.php';
-
-                  $mail = new PHPMailer;
+                  //require 'class.phpmailer.php';
 
                   if (isset($_POST['Submit'])){
                   $name = $_POST["name"];
@@ -559,13 +557,22 @@
                   $message = $_POST["message"];
                   mail ("lucastrike1@gmail.com", $name, $message, "From: $email");
 
-                  /*$mail->setFrom($email, 'Mailer');
-                  $mail->addAddress('lucastrike1@gmail.com', 'Lucas Salinas');  // Add a recipient
+                  /*$mail = new PHPMailer;
 
-                  $mail->isHTML(true);  // Set email format to HTML
+                  $mail->setFrom($email, $name);
+                  $mail->addAddress('lucastrike1@gmail.com', 'Lucas Salinas');     // Add a recipient
 
-                  $mail->Subject = $name;
-                  $mail->Body = $message;
+                  $mail->isHTML(true);                                  // Set email format to HTML
+
+                  $mail->Subject = 'Here is the subject';
+                  $mail->Body    = $message;
+
+                  if(!$mail->send()) {
+                      echo 'Message could not be sent.';
+                      echo 'Mailer Error: ' . $mail->ErrorInfo;
+                  } else {
+                      echo 'Message has been sent';
+                  }*/
                 }
 
                 ?>
