@@ -170,7 +170,7 @@
 				<hr>
 				<br>
 				<div class="col-lg-offset-2 col-lg-8">
-					<img class="img-responsive" src="assets/img/iphone.png" alt="iphone Programador web Godella Android">
+					<img class="img-responsive center-block" src="assets/img/iphone.png" alt="iphone Programador web Godella Android">
 				</div><!-- col -->
 			</div><!-- row -->
 		</div><!-- container -->
@@ -549,7 +549,7 @@
       			</form>
                 <?php
 
-                  /*require 'class.phpmailer.php';
+                  require 'class.phpmailer.php';
 
                   $mail = new PHPMailer;
 
@@ -566,7 +566,7 @@
 
                   $mail->Subject = $name;
                   $mail->Body = $message;
-                }*/
+                }
 
                 ?>
 
