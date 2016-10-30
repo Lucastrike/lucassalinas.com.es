@@ -455,7 +455,7 @@
                       a la primera <a href="http://www.valenciaplaza.com/geekshubs-organiza-la-primera-hackathon-geek-mobile-para-jovenes-desarrolladores" target="_blank">
                       Hackathon Geek Mobile celebrada en Valencia</a>.</p>
       						  <p>El evento tuvo lugar en <a href="http://www.geekshubs.com/es/" target="_blank">GeeksHubs</a> donde los participantes recibimos una MasterClasses tanto de Swift como de Android.
-                      El reto era desarrollar por grupos una aplicación para dispositivos Android o para dispositivos IOS, que concluyó a las 00:00
+                      El reto era desarrollar por grupos una aplicación para dispositivos Android o para dispositivos IOS, que concluyó a media noche
                       con nuestro equipo como ganador al liderar la clasificación con la aplicación SassyGrade.</p>
                     <p>Desde aquí darles las gracias a GeeksHubs por la organización y la enhorabuena al resto de participantes.</p>
                   </span>
@@ -549,25 +549,25 @@
       			</form>
                 <?php
 
-                  require 'PHPMailerAutoload.php';
+                  /*require 'class.phpmailer.php';
 
                   $mail = new PHPMailer;
 
                   if (isset($_POST['Submit'])){
-                  /*$name = $_POST["name"];
+                  $name = $_POST["name"];
                   $email = $_POST["email"];
                   $message = $_POST["message"];
-                  mail ("lucastrike1@gmail.com", $name, $message, "From: $email");*/
+                  mail ("lucastrike1@gmail.com", $name, $message, "From: $email");
 
-                  $mail->setFrom('from@example.com', 'Mailer');
-                  $mail->addAddress('joe@example.net', 'Joe User');     // Add a recipient
+                  /*$mail->setFrom($email, 'Mailer');
+                  $mail->addAddress('lucastrike1@gmail.com', 'Lucas Salinas');  // Add a recipient
 
-                  $mail->isHTML(true);                                  // Set email format to HTML
+                  $mail->isHTML(true);  // Set email format to HTML
 
-                  $mail->Subject = 'Here is the subject';
-                  $mail->Body    = 'This is the HTML message body <b>in bold!</b>';
+                  $mail->Subject = $name;
+                  $mail->Body = $message;
+                }*/
 
-                }
                 ?>
 
 				</div><!-- col -->
@@ -578,7 +578,7 @@
 
 		<div id="footerwrap">
 			<div class="container" itemscope itemtype="http://schema.org/CreativeWork">
-				<h4>Created by <span itemprop="author">Lucas Salinas &copy;</span></h4>
+				<h4>Created by &copy; <span itemprop="author">Lucas Salinas</span></h4>
 			</div>
 		</div>
 
