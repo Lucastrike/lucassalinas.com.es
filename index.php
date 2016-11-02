@@ -501,7 +501,7 @@
 
                   require 'PHPMailerAutoload.php';
 
-                  $mail = new PHPMailer;
+                  $mail = new PHPMailer();
 
                   if (isset($_POST['Submit'])){
                   /*$name = $_POST["name"];
