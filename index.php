@@ -170,7 +170,7 @@
 				<hr>
 				<br>
 				<div class="col-lg-offset-2 col-lg-8">
-					<img class="img-responsive" src="assets/img/iphone.png" alt="iphone Programador web Godella Android">
+					<img class="img-responsive center-block" src="assets/img/iphone.png" alt="iphone Programador web Godella Android">
 				</div><!-- col -->
 			</div><!-- row -->
 		</div><!-- container -->
@@ -265,7 +265,7 @@
 						<figure>
 							<img class="img-responsive" src="assets/img/portfolio/folio03.jpg" alt="Aplicaciones Android Programador Web Godella">
 							<figcaption>
-								<h5>ANDROID PAGE</h5>
+								<h5>ANDROID</h5>
 								<a data-toggle="modal" href="#myModal3" class="btn btn-primary btn-lg">Take a Look</a>
 							</figcaption><!-- /figcaption -->
 						</figure><!-- /figure -->
@@ -278,11 +278,11 @@
           <div class="modal-content">
             <div class="modal-header">
               <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-              <h4 class="modal-title" itemprop="name">Android Page</h4>
+              <h4 class="modal-title" itemprop="name">Android</h4>
             </div>
             <div class="modal-body">
               <p><img class="img-responsive" src="assets/img/portfolio/folio03.jpg" itemprop="image" alt="Programador Web Godella Trabajo"></p>
-              <p itemprop="description">...</p>
+              <p itemprop="description">Aplicaciones Android a medida, pide el presupuesto de tu app <a href="#contact" class="smoothScroll" data-dismiss="modal">aquí</a></p>
               <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
               <p><b><a href="https://github.com/Lucastrike/android" itemprop="url" target="_blank">Visita el sitio</a></b></p>
             </div>
@@ -408,23 +408,73 @@
 			</div><!-- /row -->
 
 			<div class="row">
-				<div class="col-lg-8 blog-bg col-lg-offset-2">
-					<div class="col-lg-4 centered">
-					<br>
-						<p><img class="img img-circle fotoPerfil" src="assets/img/team/lucas_perfil.png" itemprop="image" alt="Perfil Lucas Salinas Programador Web Godella"></p>
-						<h4 itemprop="author">Lucas Salinas</h4>
-						<h5>Publicado <span itemprop="datePublished">8 Oct.</span></h5>
-					</div>
-					<div class="col-lg-8 blog-content">
-						<h2 itemprop="about">Definiendo el éxito</h2>
-            <span itemprop="blogPost">
-						  <p>Armado de creatividad y ambición, me embarco en el <strong>diseño</strong> y <strong>programación</strong> tanto de <strong>páginas web</strong> como de <strong>aplicaciones móviles</strong>. Abarco tanto la dirección estratégica como la ejecución creativa que resuelve un problema de negocio y trae vida a la marca.</p>
-						  <p>En la fase de creación, la gran idea se desata al mundo a través de diferentes puntos de contacto con los medios de comunicación. En este momento es cuando vemos a la audiencia caer enamorada de nuevo con la marca de mi cliente.</p>
-            </span>
-            <!--<p><a href="#" class="icon icon-link"> Read More</a></p>-->
-						<br>
-					</div>
-				</div><!-- /col -->
+
+        <div id="carousel-example-generic" class="carousel slide col-lg-8 col-lg-offset-2" data-ride="carousel" data-pause="hover">
+          <!-- Indicators -->
+          <ol class="carousel-indicators">
+            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+          </ol>
+
+          <!-- Wrapper for slides -->
+          <div class="carousel-inner" role="listbox">
+
+            <div class="item active">
+
+              <div class="col-lg-12 blog-bg">
+      					<div class="col-lg-4 centered">
+      					<br>
+      						<p><img class="img img-circle fotoPerfil" src="assets/img/team/lucas_perfil.png" itemprop="image" alt="Perfil Lucas Salinas Programador Web Godella"></p>
+      						<h4 itemprop="author">Lucas Salinas</h4>
+      						<h5>Publicado <span itemprop="datePublished">8 Oct.</span></h5>
+      					</div>
+      					<div class="col-lg-8 blog-content">
+      						<h2 itemprop="about">Definiendo el éxito</h2>
+                  <span itemprop="blogPost">
+      						  <p>Armado de creatividad y ambición, me embarco en el <strong>diseño</strong> y <strong>programación</strong> tanto de <strong>páginas web</strong> como de <strong>aplicaciones móviles</strong>. Abarco tanto la dirección estratégica como la ejecución creativa que resuelve un problema de negocio y trae vida a la marca.</p>
+      						  <p>En la fase de creación, la gran idea se desata al mundo a través de diferentes puntos de contacto con los medios de comunicación. En este momento es cuando vemos a la audiencia caer enamorada de nuevo con la marca de mi cliente.</p>
+                  </span>
+                  <!--<p><a href="#" class="icon icon-link"> Read More</a></p>-->
+      						<br>
+      					</div>
+      				</div><!-- /col -->
+
+            </div>
+            <div class="item">
+              <div class="col-lg-12 blog-bg">
+      					<div class="col-lg-4 centered">
+      					<br>
+      						<p><img class="img img-circle fotoPerfil" src="assets/img/team/lucas_perfil.png" itemprop="image" alt="Perfil Lucas Salinas Programador Web Godella"></p>
+      						<h4 itemprop="author">Lucas Salinas</h4>
+      						<h5>Publicado <span itemprop="datePublished">29 Oct.</span></h5>
+      					</div>
+      					<div class="col-lg-8 blog-content">
+      						<h2 itemprop="about">Ganadores Hackathon Geek Mobile Valencia 2016</h2>
+                  <span itemprop="blogPost">
+      						  <p>El pasado viernes 22 de Abril, yo y mi equipo compuesto por <a href="http://escribanodiaz.com.es/" target="_blank">Antonio Escribano</a>, Pablo Gijón y Jesús Martinez nos presentamos
+                      a la primera <a href="http://www.valenciaplaza.com/geekshubs-organiza-la-primera-hackathon-geek-mobile-para-jovenes-desarrolladores" target="_blank">
+                      Hackathon Geek Mobile celebrada en Valencia</a>.</p>
+      						  <p>El evento tuvo lugar en <a href="http://www.geekshubs.com/es/" target="_blank">GeeksHubs</a> donde los participantes recibimos una MasterClasses tanto de Swift como de Android.
+                      El reto era desarrollar por grupos una aplicación para dispositivos Android o para dispositivos IOS, que concluyó a media noche
+                      con nuestro equipo como ganador al liderar la clasificación con la aplicación SassyGrade.</p>
+                    <p>Desde aquí darles las gracias a GeeksHubs por la organización y la enhorabuena al resto de participantes.</p>
+                  </span>
+                  <!--<p><a href="#" class="icon icon-link"> Read More</a></p>-->
+      					</div>
+      				</div><!-- /col -->
+            </div>
+          </div>
+
+          <!-- Controls -->
+          <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
 
 				<!--<div class="col-lg-6 blog-bg">
 					<div class="col-lg-4 centered">
@@ -480,7 +530,7 @@
       					<div class="form-group">
       						<label for="InputEmail">Tu Email</label>
       						<div class="input-group">
-      							<input type="text" class="form-control" id="InputEmail" name="email" placeholder="Email" required  >
+      							<input type="text" class="form-control" id="InputEmail" name="email" placeholder="...@gmail.com" required></input>
       							<span class="input-group-addon"><i class="glyphicon glyphicon-ok form-control-feedback"></i></span>
       						</div>
       					</div>
@@ -499,25 +549,38 @@
       			</form>
                 <?php
 
+<<<<<<< HEAD
                   require 'PHPMailerAutoload.php';
 
                   $mail = new PHPMailer();
+=======
+                  //require 'class.phpmailer.php';
+>>>>>>> 82d7683d5e2ffbd787a2b8995a007bf2935bda5a
 
                   if (isset($_POST['Submit'])){
-                  /*$name = $_POST["name"];
+                  $name = $_POST["name"];
                   $email = $_POST["email"];
                   $message = $_POST["message"];
-                  mail ("lucastrike1@gmail.com", $name, $message, "From: $email");*/
+                  mail ("lucastrike1@gmail.com", $name, $message, "From: $email");
 
-                  $mail->setFrom('from@example.com', 'Mailer');
-                  $mail->addAddress('joe@example.net', 'Joe User');     // Add a recipient
+                  /*$mail = new PHPMailer;
+
+                  $mail->setFrom($email, $name);
+                  $mail->addAddress('lucastrike1@gmail.com', 'Lucas Salinas');     // Add a recipient
 
                   $mail->isHTML(true);                                  // Set email format to HTML
 
                   $mail->Subject = 'Here is the subject';
-                  $mail->Body    = 'This is the HTML message body <b>in bold!</b>';
+                  $mail->Body    = $message;
 
+                  if(!$mail->send()) {
+                      echo 'Message could not be sent.';
+                      echo 'Mailer Error: ' . $mail->ErrorInfo;
+                  } else {
+                      echo 'Message has been sent';
+                  }*/
                 }
+
                 ?>
 
 				</div><!-- col -->
@@ -528,7 +591,7 @@
 
 		<div id="footerwrap">
 			<div class="container" itemscope itemtype="http://schema.org/CreativeWork">
-				<h4>Created by <span itemprop="author">Lucas Salinas &copy;</span></h4>
+				<h4>Created by &copy; <span itemprop="author">Lucas Salinas</span></h4>
 			</div>
 		</div>
 

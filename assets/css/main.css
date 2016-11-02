@@ -687,15 +687,19 @@ a:after {
   }
 
 /* ==========================================================================
-    INSTAGRAM & GITHUB LOGO'S
+    BLOG CAROUSEL
    ========================================================================== */
 
-.instagram {
-  width: 50px;
-  height: 50px;
-}
-
-.github {
-  width: 50px;
-  height: 50px;
-}
+  .carousel{
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  a.carousel-control{
+    width: 50px;
+  }
+  .blog-bg{
+    min-height: 520px;
+  }
+  .blog-content {
+    min-height: 460px;
+  }
