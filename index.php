@@ -451,10 +451,10 @@
       					<div class="col-lg-8 blog-content">
       						<h2 itemprop="about">Ganadores Hackathon Geek Mobile Valencia 2016</h2>
                   <span itemprop="blogPost">
-      						  <p>El pasado viernes 22 de Abril, yo y mi equipo compuesto por <a href="http://escribanodiaz.com.es/" target="_blank">Antonio Escribano</a>, Pablo Gijón y Jesús Martinez nos presentamos
-                      a la primera <a href="http://www.valenciaplaza.com/geekshubs-organiza-la-primera-hackathon-geek-mobile-para-jovenes-desarrolladores" target="_blank">
+      						  <p>El pasado viernes 22 de Abril, yo y mi equipo compuesto por <a itemprop="url" href="http://escribanodiaz.com.es/" target="_blank">Antonio Escribano</a>, Pablo Gijón y Jesús Martinez nos presentamos
+                      a la primera <a itemprop="url" href="http://www.valenciaplaza.com/geekshubs-organiza-la-primera-hackathon-geek-mobile-para-jovenes-desarrolladores" target="_blank">
                       Hackathon Geek Mobile celebrada en Valencia</a>.</p>
-      						  <p>El evento tuvo lugar en <a href="http://www.geekshubs.com/es/" target="_blank">GeeksHubs</a> donde los participantes recibimos una MasterClasses tanto de Swift como de Android.
+      						  <p>El evento tuvo lugar en <a itemprop="url" href="http://www.geekshubs.com/es/" target="_blank">GeeksHubs</a> donde los participantes recibimos una MasterClasses tanto de Swift como de Android.
                       El reto era desarrollar por grupos una aplicación para dispositivos Android o para dispositivos IOS, que concluyó a media noche
                       con nuestro equipo como ganador al liderar la clasificación con la aplicación SassyGrade.</p>
                     <p>Desde aquí darles las gracias a GeeksHubs por la organización y la enhorabuena al resto de participantes.</p>
@@ -549,7 +549,7 @@
       			</form>
                 <?php
 
-                  //require 'class.phpmailer.php';
+                  //linas.com.esrequire 'class.phpmailer.php';
 
                   //$mail = new PHPMailer;
 
