@@ -28,6 +28,8 @@
 
     <title>Programador Diseñador Web Godella || Páginas Web Valencia</title>
 
+    <!-- Font awesome CDN -->
+    <script src="https://use.fontawesome.com/63a2dc8022.js"></script>
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
 
@@ -155,16 +157,42 @@
 			<br>
 			<br>
 			<div class="row">
-				<h2 class="centered">UNA MARCA, UNA VOZ.</h2>
+				<h2 class="centered">QUE PUEDO HACER</h2>
 				<hr>
 				<br>
-				<div class="col-lg-offset-2 col-lg-8">
-					<p>Empleados y consumidores, dos mitades de la totalidad de una marca, la totalidad de la audiencia de una marca. A veces, estas dos mitades tienen puntos de vista muy diferentes, creando un punto débil en la historia de la marca. Esta debilidad empaña la credibilidad haciendo que las marcas que no son creíbles no sean viables.</p>
-					<p>Mi meta es siempre aplastar esa debilidad, diseñando toda la historia de la marca. Haciéndola a mano para crear una experiencia que conecte desde dentro hacia fuera.</p>
-					<p>Al ser fiel a la marca que represento, elevo la audiencia de la misma. Al igual que el amor se convierte en pasión, la pasión se convierte en vocación, creando toda la historia que el público abraza. En ese momento es cuando la marca es realmente fuerte.</p>
-				</div><!-- col-lg -->
+				<div class="row">
+				  <div class="col-xs-4 col-xs-offset-2 col1">
+            <h4><i class="fa fa-desktop fa-2x" aria-hidden="true"></i><strong>DISEÑO WEB</strong></h4>
+            <p>Diseño web original y creativo. No hay nada imposible.</p>
+				  </div>
+          <div class="col-xs-4 col2">
+            <h4><i class="fa fa-android fa-2x" aria-hidden="true"></i><strong>APLICACIONES ANDROID</strong></h4>
+            <p>No te conformes solo con tu web. Google Play tiene mas de mil millones de usuarios activos al mes.</p>
+				  </div>
+				</div>
+        <div class="row">
+				  <div class="col-xs-4 col-xs-offset-2 col1">
+            <h4><i class="fa fa-code fa-2x" aria-hidden="true"></i><strong>PROGRAMACIÓN A MEDIDA</strong></h4>
+            <p>Abre tu web desde cualquier tipo de dispositivo y disfruta de su diseño adaptable y eficiente.</p>
+				  </div>
+          <div class="col-xs-4 col2">
+            <h4><i class="fa fa-cloud fa-2x" aria-hidden="true"></i><strong>GESTION DE HOSTING</strong></h4>
+            <p>No te preocupes por la configuración del servidor, gestión de dominios, migraciones o problemas puntuales.</p>
+				  </div>
+				</div>
+        <div class="row">
+				  <div class="col-xs-4 col-xs-offset-2 col1">
+            <h4><i class="fa fa-google fa-2x" aria-hidden="true"></i><strong>#1 EN GOOGLE</strong></h4>
+            <p>Tu web es el primer resultado de Google, técnicas de posicionamiento SEO y SEM, observa como crece tu negocio.</p>
+				  </div>
+          <div class="col-xs-4 col2">
+            <h4><i class="fa fa-wrench fa-2x" aria-hidden="true"></i><strong>MANTENIMIENTO</strong></h4>
+            <p>Mantenimiento de tu web y de tus equipos, disponibilidad de desplazamiento a domicilio. Mac, Windows, Linux.</p>
+				  </div>
+				</div>
 			</div><!-- row -->
 
+      <br>
 			<div class="row">
 				<h2 class="centered">FILOSOFÍA MOBILE FIRST, SIEMPRE.</h2>
 				<hr>
@@ -205,7 +233,7 @@
 							<img class="img-responsive" src="assets/img/portfolio/folio01.png" itemprop="image" alt="Lucas Salinas Github Programador Web Godella">
 							<figcaption>
 								<h5>GITHUB</h5>
-								<a data-toggle="modal" href="#githubModal" class="btn btn-primary btn-lg">Take a Look</a>
+								<a data-toggle="modal" href="#githubModal" class="btn btn-primary btn-lg">Ver más</a>
 							</figcaption><!-- /figcaption -->
 						</figure><!-- /figure -->
 			    	</div><!-- /grid-mask -->
@@ -236,7 +264,7 @@
 							<img class="img-responsive" src="assets/img/portfolio/folio02.png" alt="Diseño Interfaces Lucas Salinas">
 							<figcaption>
 								<h5>UI DESIGN</h5>
-								<a data-toggle="modal" href="#myModal2" class="btn btn-primary btn-lg">Take a Look</a>
+								<a data-toggle="modal" href="#myModal2" class="btn btn-primary btn-lg">Ver más</a>
 							</figcaption><!-- /figcaption -->
 						</figure><!-- /figure -->
 			    	</div><!-- /grid-mask -->
@@ -266,7 +294,7 @@
 							<img class="img-responsive" src="assets/img/portfolio/folio03.jpg" alt="Aplicaciones Android Programador Web Godella">
 							<figcaption>
 								<h5>ANDROID</h5>
-								<a data-toggle="modal" href="#myModal3" class="btn btn-primary btn-lg">Take a Look</a>
+								<a data-toggle="modal" href="#myModal3" class="btn btn-primary btn-lg">Ver más</a>
 							</figcaption><!-- /figcaption -->
 						</figure><!-- /figure -->
 			    	</div><!-- /grid-mask -->
@@ -295,10 +323,10 @@
 				<div class="col-md-4 ">
 			    	<div class="grid mask">
 						<figure>
-							<img class="img-responsive" src="assets/img/portfolio/folio04.jpg" alt="Perfil Lucas Salinas">
+							<img class="img-responsive" src="assets/img/portfolio/folio04.png" alt="Perfil Lucas Salinas">
 							<figcaption>
-								<h5>PROFILE</h5>
-								<a data-toggle="modal" href="#myModal4" class="btn btn-primary btn-lg">Take a Look</a>
+								<h5>SOCIAL TANGLE</h5>
+								<a data-toggle="modal" href="#myModal4" class="btn btn-primary btn-lg">Ver más</a>
 							</figcaption><!-- /figcaption -->
 						</figure><!-- /figure -->
 			    	</div><!-- /grid-mask -->
@@ -309,10 +337,10 @@
 						<div class="modal-content">
 						  <div class="modal-header">
 						    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-						    <h4 class="modal-title" itemprop="name">Profile</h4>
+						    <h4 class="modal-title" itemprop="name">Social Tangle</h4>
 						  </div>
 						  <div class="modal-body">
-						    <p><img class="img-responsive" src="assets/img/portfolio/folio04.jpg" itemprop="image" alt="Programador Web Godella Trabajo"></p>
+						    <p><img class="img-responsive" src="assets/img/portfolio/folio04.png" itemprop="image" alt="Programador Web Godella Trabajo"></p>
                 <p itemprop="description">...</p>
 						    <!--<p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>-->
 						    <p><b><a href="https://github.com/Lucastrike" itemprop="url" target="_blank">Visita el sitio</a></b></p>
@@ -328,7 +356,7 @@
 							<img class="img-responsive" src="assets/img/portfolio/folio05.jpg" alt="Twitter Lucas Salinas">
 							<figcaption>
 								<h5>TWITTER STATUS</h5>
-								<a data-toggle="modal" href="#myModal5" class="btn btn-primary btn-lg">Take a Look</a>
+								<a data-toggle="modal" href="#myModal5" class="btn btn-primary btn-lg">Ver más</a>
 							</figcaption><!-- /figcaption -->
 						</figure><!-- /figure -->
 			    	</div><!-- /grid-mask -->
@@ -358,7 +386,7 @@
 							<img class="img-responsive" src="assets/img/portfolio/folio06.jpg" alt="Phone Mockup Lucas Salinas">
 							<figcaption>
 								<h5>PHONE MOCKUP</h5>
-								<a data-toggle="modal" href="#myModal6" class="btn btn-primary btn-lg">Take a Look</a>
+								<a data-toggle="modal" href="#myModal6" class="btn btn-primary btn-lg">Ver más</a>
 							</figcaption><!-- /figcaption -->
 						</figure><!-- /figure -->
 			    	</div><!-- /grid-mask -->
