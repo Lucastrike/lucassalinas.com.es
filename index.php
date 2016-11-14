@@ -73,6 +73,14 @@
       ga('send', 'pageview');
   </script>
 
+  <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+  <script type="text/javascript">
+      window.cookieconsent_options = {"message":"Esta web utiliza cookies para asegurarse de que obtengas la mejor experiencia de navegación.","dismiss":"Perfecto!","learnMore":"Más información","link":"http://www.lucassalinas.com.es/cookies.html","theme":"dark-floating"};
+  </script>
+
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/cookieconsent.min.js"></script>
+  <!-- End Cookie Consent plugin -->
+
 </head>
 
   <body data-spy="scroll" data-offset="0" data-target="#navbar-main">
