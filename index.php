@@ -156,6 +156,18 @@
           <br />En la actualidad soy estudiante de <strong itemprop="jobTitle">desarrollo de aplicaciones web</strong> en <a href="http://www.solvam.es" itemprop="sponsor">Solvam</a> y residente en <em><strong itemprop="homeLocation">Godella</strong></em>.
           Cuento con amplias capacidades y habilidades adquiridas en los diferentes campos de estudio que he recorrido y en mi vida personal, tanto trabajando y estudiando en España como en el Reino Unido. Habilidades que junto con la experiencia se unen para continuar en una única dirección, el éxito.</p>
 				</div><!-- col-lg-6 -->
+        <div class="col-lg-3">
+          <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+          <!-- first -->
+          <ins class="adsbygoogle"
+               style="display:block"
+               data-ad-client="ca-pub-9147503645207332"
+               data-ad-slot="2582448204"
+               data-ad-format="auto"></ins>
+          <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+          </script>
+        </div>
 			</div><!-- row -->
 		</div><!-- container -->
 
